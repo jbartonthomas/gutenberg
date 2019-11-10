@@ -1,0 +1,8 @@
+jupyter
+ipython
+pandas
+seaborn
+autopep8
+statsmodels
+scikit-learn 
+matplotlib=3.0.3
