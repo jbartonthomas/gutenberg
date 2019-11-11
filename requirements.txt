@@ -6,3 +6,7 @@ autopep8
 statsmodels
 scikit-learn 
 matplotlib==3.0.3
+tqdm
+joblib
+dill
+prettytable
